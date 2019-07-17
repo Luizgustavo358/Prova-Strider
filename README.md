@@ -5,6 +5,10 @@
 1. Contar a quantidade que pontos vermelhos na imagem :white_check_mark:
 1. Encontrar a frase escondida nos pontos
 
+### Imagem:
+
+![Strider](challenge_strider.png)
+
 ### Como rodar:
 
 - Abra o terminal e rode o seguinte comando:
