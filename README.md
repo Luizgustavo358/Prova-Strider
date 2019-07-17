@@ -2,7 +2,7 @@
 
 ### Desafio dos Pixels
 
-1. Contar a quantidade que pontos vermelhos na imagem
+1. Contar a quantidade que pontos vermelhos na imagem :white_check_mark:
 1. Encontrar a frase escondida nos pontos
 
 ### Como rodar:
