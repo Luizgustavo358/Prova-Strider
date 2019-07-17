@@ -10,6 +10,7 @@
 # importando a biblioteca
 from PIL import Image, ImageDraw
 
+
 # Metodo para ler a quantidade de pixels
 def le_quantidade():
     # pegando a imagem
@@ -26,7 +27,7 @@ def le_quantidade():
 
 
 if __name__ == "__main__":
-    # pega a quantidade
+    # pega a quantidade de pixels
     quantidade = le_quantidade()
 
     # mostra a quantidade de pixels vermelhos
