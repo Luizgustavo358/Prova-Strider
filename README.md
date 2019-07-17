@@ -20,4 +20,4 @@ $ python3 desafio.py
 
 ### Biblioteca utilizada:
 
-- [PIL - Python Imaging Library](https://pillow.readthedocs.io/en/stable/)
+- [PIL (Python Imaging Library)](https://pillow.readthedocs.io/en/stable/)
