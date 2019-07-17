@@ -14,7 +14,8 @@
 - Abra o terminal e rode o seguinte comando:
 
 ```sh
-$ python3 desafio.py
+$ python3 desafio-1.py      # para rodar o primeiro desafio
+$ python3 desafio-2.py      # para rodar o segundo desafio
 ```
 
 ### Feito em:
