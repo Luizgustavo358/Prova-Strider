@@ -1,4 +1,4 @@
-#Prova de Estágio da Strider
+# Prova de Estágio da Strider
 
 Desafio dos Pixels
 
